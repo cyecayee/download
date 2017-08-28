@@ -10,6 +10,6 @@
 > E-mail（邮箱）: CYE@email.com
 
 ---
-![image](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)
+![image](https://github.com/cyecayee/libraries/raw/master/image/2017/by-nc4.0.png)
 
 Copyright 2017 Cayee. All Rights Reserved.
